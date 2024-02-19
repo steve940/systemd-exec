@@ -1,0 +1,2 @@
+#!bin/bash
+echo "日志内容" >> /tmp/logfile.txt
